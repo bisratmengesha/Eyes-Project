@@ -1,5 +1,5 @@
 # Eyes
-< img src = "eye.png" width = '300'/>
+<img src = "eye.png" width = '300'/>
 ## Moving Eyes Exercise
 # Description
 This exercise entailed adding a second eye to the original code that was showing one eye following a user's cursor. Both eyes are now following the cursor.
